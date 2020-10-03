@@ -14,6 +14,6 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ## Activity 3
 A SQL database follows the relational model while a NoSQL database does not - a SQL database must consists of tables (each with a primary key).
-Instead of tables, NoSQL databases often use collections. 
-SQL databases are better when performing multi-row transaction (e.g. for the role example in the text, having a separate table for roles makes it easier to change role names), avoids duplication but can be less efficient when querying (since tables must be joined).
-NoSQL databases's duplication allows faster querying. However it is less consistent compared to SQL databases.
+<br>Instead of tables, NoSQL databases often use collections. 
+<br>SQL databases are better when performing multi-row transaction (e.g. for the role example in the text, having a separate table for roles makes it easier to change role names), avoids duplication but can be less efficient when querying (since tables must be joined).
+<br>NoSQL databases's duplication allows faster querying. However it is less consistent compared to SQL databases.
